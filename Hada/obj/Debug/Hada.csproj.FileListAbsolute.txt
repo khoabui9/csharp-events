@@ -1,0 +1,6 @@
+c:\users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\bin\Debug\Hada.exe.config
+C:\Users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\bin\Debug\Hada.exe
+C:\Users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\bin\Debug\Hada.pdb
+C:\Users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\obj\Debug\Hada.csprojResolveAssemblyReference.cache
+C:\Users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\obj\Debug\Hada.exe
+C:\Users\dell 5558\documents\visual studio 2015\Projects\hada-p2\Hada\obj\Debug\Hada.pdb
