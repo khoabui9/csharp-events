@@ -34,11 +34,11 @@ namespace Hada
         }
         public void createHighLightCondition()
         {
-            //lightS.highLightCondition += onHighLight;
+            lightS.highLightCondition += onHighLight;
         }
         public void createProximityCondition()
         {
-            //proximityS.proximityCondition += onProximity;
+            proximityS.proximityCondition += onProximity;
         }
         private void onLowLight(object sender, LowLightArgs e)
         {
